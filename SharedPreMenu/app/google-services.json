@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "775348465278",
+    "firebase_url": "https://sharedpremenu-demo-default-rtdb.firebaseio.com",
+    "project_id": "sharedpremenu-demo",
+    "storage_bucket": "sharedpremenu-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775348465278:android:fc7ce8e1bafb96e7bbf22f",
+        "android_client_info": {
+          "package_name": "kr.ukinas.sharedpremenu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775348465278-5jdg4ncoo85nuf9bl7ug3ho9fgqbcj8t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kr.ukinas.sharedpremenu",
+            "certificate_hash": "5f52c897f0f50ae53d072f5d1d6c44f33646ba43"
+          }
+        },
+        {
+          "client_id": "775348465278-5mkngectp90b4rp82uhfu9gui5nsba16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzGusvOPTNipYIm3rAyswSq6vhowKpY9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775348465278-5mkngectp90b4rp82uhfu9gui5nsba16.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
