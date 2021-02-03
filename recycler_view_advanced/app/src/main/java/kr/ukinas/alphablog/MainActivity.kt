@@ -7,6 +7,7 @@ import androidx.recyclerview.widget.RecyclerView
 import kr.ukinas.alphablog.MockDatabase.Companion.createMockData
 
 class MainActivity : AppCompatActivity(), PostAdapter.OnPostClickListener {
+
     val dummyList = createMockData()
     val adapter = PostAdapter(dummyList, this)
 
